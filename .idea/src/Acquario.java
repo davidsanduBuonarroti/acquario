@@ -1,3 +1,2 @@
-public class Acquario {
-    
+package PACKAGE_NAME;public class Acquario {
 }
